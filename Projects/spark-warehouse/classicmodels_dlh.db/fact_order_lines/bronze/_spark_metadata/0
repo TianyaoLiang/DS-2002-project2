@@ -1,2 +1,2 @@
 v1
-{"path":"file:///Users/tianyao/Desktop/DS-2002-main%20copy/Projects/spark-warehouse/classicmodels_dlh.db/fact_order_lines/bronze/part-00000-a5b29909-2d27-406f-8962-e60d1f93930d-c000.snappy.parquet","size":23121,"isDir":false,"modificationTime":1778181891221,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/tianyao/Desktop/DS-2002-project2/Projects/spark-warehouse/classicmodels_dlh.db/fact_order_lines/bronze/part-00000-7428f3bd-25bf-4dfd-9b96-6c2ed2086714-c000.snappy.parquet","size":23106,"isDir":false,"modificationTime":1778189890653,"blockReplication":1,"blockSize":33554432,"action":"add"}
